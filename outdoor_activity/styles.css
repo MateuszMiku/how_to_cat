@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(116, 55, 6);
+}
+h1 {
+    color: rgb(25, 8, 87);
+}
+body {
+    color: rgb(25, 8, 87);
+}
+.link {
+    color: rgb(75, 1, 1);
+}
+a {
+    color: green;
+}
+
+/*Chaining Selectors*/
+
+.list.property {
+    color: rgb(255, 255, 255);
+}
+
+.list#property {
+    color: rgb(0, 0, 0);
+}

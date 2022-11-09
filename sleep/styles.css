@@ -1,0 +1,25 @@
+* {
+    background-color: green;
+}
+h1 {color: rgb(5, 5, 107);}
+h3 {color: rgb(5, 5, 107);}
+#reason {
+    color: rgb(5, 5, 107);
+    font-family: 'Brush Script MT', Arial;
+    font-size: large;
+}
+.punkt1 {background-color: black;
+    color: green;
+}
+.punkt2, #punkt3 {
+    background-color: blueviolet;
+    color: rgb(10, 0, 0);
+}
+.iteration {
+    background-color: orange;
+    color:black;
+    display: inline
+}
+body {
+    color: rgb(12, 38, 49);
+}

@@ -1,0 +1,28 @@
+* {
+    background-color: rgba(166, 13, 13, 0.534);
+}
+img {
+    rotate: 7deg;
+    height: 610px;
+    width: 500px;
+}
+
+    /*Grouping Selectors*/
+
+.class1, .class2 {
+    color: aliceblue;
+}
+.class1 {
+    background-color: rgba(0, 128, 0, 0.774);
+}
+.class2 {
+    background-color: rgba(0, 0, 255, 0.596);
+}
+
+    /*Descendant Combinator*/
+
+.list .class3 {
+    color: rgb(3, 5, 92);
+}
+
+
