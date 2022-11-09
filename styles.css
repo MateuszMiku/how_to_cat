@@ -1,0 +1,13 @@
+* {background-color: aquamarine;
+}
+p {color: blueviolet;
+}
+h1 {color: rgb(168, 11, 11);
+}
+li {color: yellow;}
+a {color: green;}
+
+.main {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif; 
+color: hwb(0 5% 70%);
+background-color: rgb(111, 0, 214);
+}
